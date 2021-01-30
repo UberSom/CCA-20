@@ -1,6 +1,6 @@
 # Технологии физического уровня передачи данных
 Преподаватель: **Храмцовский Иван Александрович**  
-Ссылка на чат в Telegram: [@Khramtsovskiy](https://t.me/Khramtsovskiy)  
+Ссылка на чат в Telegram: [@Khramtsovsky](https://t.me/Khramtsovsky)  
 
 ### Инструкция
 1. Установить систему контроля версий [Git](https://git-scm.com/)
