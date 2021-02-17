@@ -13,6 +13,6 @@ git checkout -b ВАША_ФАМИЛИЯ
 ```shell
 git add .
 git commit -m "Комментарий, например Самостоятельная работа 1"
-git push -u origin dev
+git push -u origin ВАША_ФАМИЛИЯ
 ```
 
